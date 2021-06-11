@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahditaani" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahditaani&theme=dracula" />
   </a>
 </p>
 
