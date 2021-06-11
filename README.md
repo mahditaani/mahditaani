@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/mahditaani/mahditaani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani&layout=compact&theme=dracula" style="height:130%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani&layout=compact&theme=dracula" height=130/>
 </a>
 
 
