@@ -31,5 +31,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahditaani)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 
