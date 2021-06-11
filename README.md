@@ -19,18 +19,15 @@ Here are some ideas to get you started:
 
 
 
-<div class="row">
-  <div class="column">
-    <a href="https://github.com/mahditaani/mahditaani">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula" style="width:100%"/>
-    </a>
-  </div>
-  <div class="column">
-    <a href="https://github.com/mahditaani/mahditaani">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani&layout=compact&theme=dracula" style="width:130%"/>
-    </a>
-  </div>
-</div>
+
+<a href="https://github.com/mahditaani/mahditaani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula" />
+</a>
+
+<a href="https://github.com/mahditaani/mahditaani">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani&layout=compact&theme=dracula" style="height:130%"/>
+</a>
+
 
 
 
