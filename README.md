@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://github.com/mahditaani/mahditaani/blob/main/MahdiDarkBanner.jpg)](https://github.com/mahditaani)
 
-<h align="center">
-I'm a physicist working on the development of a future large scale underground particle detector. Spend considerable time developing simulations of photodetectors and optical components.
-Started exploring different UI/frontend programming languages. Loving Dart and Flutter! 
+<h align="center">I'm a physicist working on the development of a future large scale underground particle detector. Spend considerable time developing simulations of photodetectors and optical components.</h>
+<h align="center">Started exploring different UI/frontend programming languages. Loving Dart and Flutter!</h>
 
-Also diving into AI/ML and discovering it's various uses in solving business problems.
-</h>
+<h align="center">Also diving into AI/ML and discovering it's various uses in solving business problems.</h>
+
 
 
 <h3 align="center">My Github Stats</h3>
