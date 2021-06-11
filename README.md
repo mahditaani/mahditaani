@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani&layout=compact&theme=dracula)]
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani&layout=compact&theme=dracula)
