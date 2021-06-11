@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://github.com/mahditaani/mahditaani/blob/main/MahdiDarkBanner.jpg)](https://github.com/mahditaani)
 
+<h3 align="center">About Me</h3>
 <p align="center">
   <h align="center">I'm a physicist working on the development of a future large scale underground particle detector. Spend considerable time developing simulations of photodetectors and optical components.</h>
   <h align="center">Started exploring different UI/frontend programming languages. Loving Dart and Flutter!</h>
@@ -37,11 +38,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=mahditaani&theme=dracula" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -49,7 +52,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mahdi-taani-311836212" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="" height="30" width="40" />
   </a>
