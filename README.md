@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahditaani)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula)
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula)
 
