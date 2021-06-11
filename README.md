@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani&layout=compact&theme=dracula)]
