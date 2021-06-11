@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/mahditaani/mahditaani">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula&count_private=true" height=200/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mahditaani/mahditaani">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani&layout=compact&theme=dracula&langs_count=10" height=200/>
   </a>
 </p>
