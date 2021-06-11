@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 [![MasterHead](https://github.com/mahditaani/mahditaani/blob/main/MahdiDarkBanner.jpg)](https://github.com/mahditaani)
 
 
-
+### My Github Stats
 <p align="center">
-  ### My Github Stats
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula&count_private=true" height=200/>
   </a>
