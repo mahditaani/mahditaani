@@ -17,27 +17,6 @@ Here are some ideas to get you started:
 
 [![MasterHead](https://github.com/mahditaani/mahditaani/blob/main/MahdiDarkBanner.jpg)](https://github.com/mahditaani)
 
-<head>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-
-    .column {
-      float: left;
-      width: 33.33%;
-      padding: 5px;
-    }
-
-    /* Clearfix (clear floats) */
-    .row::after {
-      content: "";
-      clear: both;
-      display: table;
-    }
-  </style>
-</head>
-
 
 
 <div class="row">
