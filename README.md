@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 
 
-
-<a href="https://github.com/mahditaani/mahditaani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula" height=200/>
-</a>
+<p align="center">
+  <a href="https://github.com/mahditaani/mahditaani">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahditaani&show_icons=true&theme=dracula" height=200/>
+  </a>
+</p>
 <img align="center"  width=10/>
 <a href="https://github.com/mahditaani/mahditaani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahditaani&layout=compact&theme=dracula" height=200/>
