@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  <h align="center">I'm a physicist working on the development of a future large scale underground particle detector. Spend considerable time developing simulations of photodetectors and optical components.</h>
-  <h align="center">Started exploring different UI/frontend programming languages. Loving Dart and Flutter!</h>
-  <h align="center">Also diving into AI/ML and discovering its various uses in solving business problems.</h>
+    <h align="center">I am a physicist who loves using code to automate and simplify the solving of physics problems. I currently work in a health-tech startup where I am grappling with electrostatics and electrodynamics.</h>
+  <h align="center">My previous projects include statistical analyses for a high energy physics experiment and the development of a future large scale underground particle detector (Hyper-Kamiokande). I have spent a considerable amount of time developing simulations of photodetectors and optical components.</h>
+  <h align="center">I am exploring different UI/frontend programming languages and frameworks, loving Dart and Flutter!</h>
+  <h align="center">I have also recently found myself diving into AI/ML and discovering its various uses in solving business problems.</h>
 </p>
 
 
